@@ -1,0 +1,31 @@
+_repo: Notes-on-Certain-Maya-and-Mexican-ManuscriptsGovernment-Printing-Office-Washington-1884-pages__20456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+description: Tableau des Bacab."--Plate 43 of the Borgian codex.--Plate 44 of the
+  Fejervary codex.--Symbols of the cardinal points.
+gutenberg_issued: '2007-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Calendar -- Mexico'
+- !lcsh 'Maya calendar'
+title: "Notes on Certain Maya and Mexican Manuscripts\r\nThird Annual Report of the\
+  \ Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1881-82,\
+  \ Government Printing Office, Washington, 1884, pages 3-66"
+url: http://www.gutenberg.org/ebooks/20456
